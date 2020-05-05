@@ -51,6 +51,14 @@ ExportedObj/
 # Unity3D generated file on crash reports
 sysinfo.txt
 
+
+# Digger Information for the gitignore
+*.vom_v*
+*.vox_v*
+*.asset_*
+*.ver
+current_version.asset
+
 # Builds
 *.apk
 *.unitypackage
