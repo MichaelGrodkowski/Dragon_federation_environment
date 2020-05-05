@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/PostProcess_experiment.unity
+- path: Assets/Dragon_pen_with_Digger.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
