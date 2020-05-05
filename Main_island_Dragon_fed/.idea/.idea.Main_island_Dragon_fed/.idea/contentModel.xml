@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Michael\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Michael\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Main_island_Dragon_fed.-1118826835.00" t="ExcludeRecursive" />
+    <e p="S:\Repos\Dragon_federation_environment\Main_island_Dragon_fed" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Digger" t="Include">
+          <e p="Demo" t="Include">
+            <e p="Editor" t="Include">
+              <e p="READMEEditor.cs" t="Include" />
+            </e>
+            <e p="FlyCamera.cs" t="Include" />
+            <e p="NavTest.cs" t="Include" />
+            <e p="README.cs" t="Include" />
+          </e>
+          <e p="NativeCollections" t="Include">
+            <e p="NativeCollections.asmdef" t="Include" />
+            <e p="NativeCounter.cs" t="Include" />
+            <e p="NativeQueue.cs" t="Include" />
+            <e p="Tests" t="Include">
+              <e p="NativeCounterTests.cs" t="Include" />
+              <e p="Tests.asmdef" t="Include" />
+            </e>
+            <e p="Utils.cs" t="Include" />
+          </e>
+          <e p="README.txt" t="Include" />
+          <e p="Shaders" t="Include">
+            <e p="Mesh" t="Include">
+              <e p="HDRP" t="Include">
+                <e p="DiggerTerrainLit.shader" t="Include" />
+                <e p="DiggerTerrainLit_Splatmap.hlsl" t="Include" />
+                <e p="DiggerTerrainLitData.hlsl" t="Include" />
+                <e p="DiggerTerrainLitTemplate.hlsl" t="Include" />
+              </e>
+              <e p="LWRP" t="Include">
+                <e p="DiggerLWRPMeshLit-Pass0.shader" t="Include" />
+                <e p="DiggerLWRPMeshLit-Pass1.shader" t="Include" />
+                <e p="DiggerLWRPMeshLit-Pass2.shader" t="Include" />
+                <e p="DiggerLWRPMeshLit-Pass3.shader" t="Include" />
+                <e p="DiggerLWRPMeshLitInput.hlsl" t="Include" />
+                <e p="DiggerLWRPMeshLitPasses.hlsl" t="Include" />
+              </e>
+              <e p="Standard" t="Include">
+                <e p="NoTextureArray" t="Include">
+                  <e p="Mesh-Pass0.shader" t="Include" />
+                  <e p="Mesh-Pass1.shader" t="Include" />
+                  <e p="Mesh-Pass2.shader" t="Include" />
+                  <e p="Mesh-Pass3.shader" t="Include" />
+                  <e p="MeshTriplanarStandard.cginc" t="Include" />
+                </e>
+                <e p="WithTextureArray" t="Include">
+                  <e p="Mesh-Pass0.shader" t="Include" />
+                  <e p="Mesh-Pass1.shader" t="Include" />
+                  <e p="MeshTriplanarStandardTxtArray.cginc" t="Include" />
+                </e>
+              </e>
+              <e p="URP" t="Include">
+                <e p="DiggerURPMeshLit-Pass0.shader" t="Include" />
+                <e p="DiggerURPMeshLit-Pass1.shader" t="Include" />
+                <e p="DiggerURPMeshLit-Pass2.shader" t="Include" />
+                <e p="DiggerURPMeshLit-Pass3.shader" t="Include" />
+                <e p="DiggerURPMeshLitInput.hlsl" t="Include" />
+                <e p="DiggerURPMeshLitPasses.hlsl" t="Include" />
+              </e>
+            </e>
+            <e p="Terrain" t="Include">
+              <e p="HDRP" t="Include">
+                <e p="DiggerTerrainLit.shader" t="Include" />
+                <e p="DiggerTerrainLit_Splatmap.hlsl" t="Include" />
+                <e p="DiggerTerrainLitData.hlsl" t="Include" />
+                <e p="DiggerTerrainLitTemplate.hlsl" t="Include" />
+              </e>
+              <e p="LWRP" t="Include">
+                <e p="DiggerLWRPTerrainLit.shader" t="Include" />
+                <e p="DiggerLWRPTerrainLitAdd.shader" t="Include" />
+                <e p="DiggerLWRPTerrainLitBase.shader" t="Include" />
+                <e p="DiggerLWRPTerrainLitInput.hlsl" t="Include" />
+                <e p="DiggerLWRPTerrainLitMetaPass.hlsl" t="Include" />
+                <e p="DiggerLWRPTerrainLitPasses.hlsl" t="Include" />
+              </e>
+              <e p="Standard" t="Include">
+                <e p="Cuttable-Triplanar-AddPass.shader" t="Include" />
+                <e p="Cuttable-Triplanar-Base.shader" t="Include" />
+                <e p="Cuttable-Triplanar-BaseGen.shader" t="Include" />
+                <e p="Cuttable-Triplanar-FirstPass.shader" t="Include" />
+                <e p="TerrainSplatmapCuttableTriplanar.cginc" t="Include" />
+              </e>
+              <e p="URP" t="Include">
+                <e p="DiggerURPTerrainLit.shader" t="Include" />
+                <e p="DiggerURPTerrainLitAdd.shader" t="Include" />
+                <e p="DiggerURPTerrainLitBase.shader" t="Include" />
+                <e p="DiggerURPTerrainLitInput.hlsl" t="Include" />
+                <e p="DiggerURPTerrainLitMetaPass.hlsl" t="Include" />
+                <e p="DiggerURPTerrainLitPasses.hlsl" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Sources" t="Include">
+            <e p="Digger" t="Include">
+              <e p="ActionType.cs" t="Include" />
+              <e p="BrushType.cs" t="Include" />
+              <e p="Chunk.cs" t="Include" />
+              <e p="ChunkLODGroup.cs" t="Include" />
+              <e p="ChunkObject.cs" t="Include" />
+              <e p="ChunkTriggerBounds.cs" t="Include" />
+              <e p="ColliderComparer.cs" t="Include" />
+              <e p="DiggerMaster.cs" t="Include" />
+              <e p="DiggerPhysics.cs" t="Include" />
+              <e p="DiggerSystem.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="DiggerDefines.cs" t="Include" />
+                <e p="DiggerGaiaIntegration.cs" t="Include" />
+                <e p="DiggerMasterEditor.cs" t="Include" />
+                <e p="DiggerSystemEditor.cs" t="Include" />
+                <e p="MicroSplatPaintType.cs" t="Include" />
+                <e p="PlayModeStateChanged.cs" t="Include" />
+                <e p="PreprocessBuild.cs" t="Include" />
+                <e p="SceneManagerEventHandler.cs" t="Include" />
+                <e p="ScriptConverter.cs" t="Include" />
+                <e p="Upgrading.cs" t="Include" />
+              </e>
+              <e p="EditorUtils.cs" t="Include" />
+              <e p="HeightFeeders" t="Include">
+                <e p="IHeightFeeder.cs" t="Include" />
+                <e p="TerrainHeightFeeder.cs" t="Include" />
+              </e>
+              <e p="Jobs" t="Include">
+                <e p="MarchingCubesJob.cs" t="Include" />
+                <e p="MarchingCubesTables.cs" t="Include" />
+                <e p="NativeCollectionsPool.cs" t="Include" />
+                <e p="VoxelGenerationJob.cs" t="Include" />
+                <e p="VoxelKernelModificationJob.cs" t="Include" />
+                <e p="VoxelModificationJob.cs" t="Include" />
+                <e p="VoxelRefreshJob.cs" t="Include" />
+              </e>
+              <e p="ListPool.cs" t="Include" />
+              <e p="LoadType.cs" t="Include" />
+              <e p="MicroSplatSync.cs" t="Include" />
+              <e p="TerrainColliderHoleComponent.cs" t="Include" />
+              <e p="TerrainCutters" t="Include">
+                <e p="CutEntry.cs" t="Include" />
+                <e p="TerrainCutter.cs" t="Include" />
+                <e p="TerrainCutter20193.cs" t="Include" />
+                <e p="TerrainCutterLegacy.cs" t="Include" />
+              </e>
+              <e p="TerrainMaterialType.cs" t="Include" />
+              <e p="TerrainUtils.cs" t="Include" />
+              <e p="Test" t="Include">
+                <e p="DiggerPhysicsTester.cs" t="Include" />
+                <e p="PhysicsTest.cs" t="Include" />
+              </e>
+              <e p="Utils.cs" t="Include" />
+              <e p="Vector2i.cs" t="Include" />
+              <e p="Vector2iComparer.cs" t="Include" />
+              <e p="Vector3i.cs" t="Include" />
+              <e p="Vector3iComparer.cs" t="Include" />
+              <e p="Versioning" t="Include">
+                <e p="VersionInfo.cs" t="Include" />
+              </e>
+              <e p="Voxel.cs" t="Include" />
+              <e p="VoxelChunk.cs" t="Include" />
+            </e>
+            <e p="Tests" t="Include">
+              <e p="Editor" t="Include">
+                <e p="VoxelTests.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Unsafe" t="Include">
+            <e p="DirectMeshAccess.cs" t="Include" />
+            <e p="DirectNativeCollectionsAccess.cs" t="Include" />
+            <e p="Unsafe.asmdef" t="Include" />
+          </e>
+        </e>
+        <e p="Quixel" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="BridgeImporter" t="Include">
+              <e p="MegascansBridgeLink.cs" t="Include" />
+              <e p="MegascansDecalTools.cs" t="Include" />
+              <e p="MegascansImageUtils.cs" t="Include" />
+              <e p="MegascansImporter.cs" t="Include" />
+              <e p="MegascansImporterWindow.cs" t="Include" />
+              <e p="MegascansMeshUtils.cs" t="Include" />
+              <e p="MegascansPostProcess.cs" t="Include" />
+              <e p="MegascansTerrainTools.cs" t="Include" />
+              <e p="MegascansUtilities.cs" t="Include" />
+            </e>
+            <e p="Tools" t="Include">
+              <e p="PoissonDiscSampling.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Samples" t="Include">
+          <e p="Terrain Tools" t="Include">
+            <e p="0.1.0-preview" t="Include">
+              <e p="Terrain Assets" t="Include">
+                <e p="ThirdPartyNotices.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="UnityPackages" t="Include">
+          <e p="JsonNetSample" t="Include">
+            <e p="JsonNetSample.cs" t="Include" />
+          </e>
+        </e>
+        <e p="VRWaterShader2" t="Include">
+          <e p="Editor" t="Include">
+            <e p="VRWS2Inspector.cs" t="Include" />
+          </e>
+          <e p="README.txt" t="Include" />
+          <e p="Shaders" t="Include">
+            <e p="Standard.shader" t="Include" />
+            <e p="VRWSCore.cginc" t="Include" />
+            <e p="VRWSShadowCaster.cginc" t="Include" />
+            <e p="VRWSTess.cginc" t="Include" />
+          </e>
+          <e p="VRWaterShader(legacy)" t="Include">
+            <e p="README.txt" t="Include" />
+            <e p="Readme_ja.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="Double Sided.shader" t="Include" />
+              <e p="GLES30" t="Include">
+                <e p="Double Sided.shader" t="Include" />
+                <e p="Standard.shader" t="Include" />
+                <e p="ZWrite Double Sided.shader" t="Include" />
+                <e p="ZWrite Standard.shader" t="Include" />
+              </e>
+              <e p="Standard.shader" t="Include" />
+              <e p="ZWrite Double Sided.shader" t="Include" />
+              <e p="ZWrite Standard.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Main_island_Dragon_fed.sln" t="IncludeFlat" />
+      <e p="NativeCollections.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Tests.csproj" t="IncludeRecursive" />
+      <e p="Unsafe.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
